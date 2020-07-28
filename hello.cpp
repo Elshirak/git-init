@@ -10,5 +10,5 @@ int main ()
 
 void print ()
 {
-	std::cout << "Hello, Elshirak!\n";
+	std::cout << "I love Masysok!\n";
 }
